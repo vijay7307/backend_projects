@@ -1,0 +1,28 @@
+{
+  "name": "backend_projects",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000b\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000_\u0000p\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijay7307/backend_projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/vijay7307/backend_projects/issues"
+  },
+  "homepage": "https://github.com/vijay7307/backend_projects#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
